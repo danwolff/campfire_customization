@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        In Campfire chat, pin Rooms to Top based on data-name property
-// @namespace   http://your.namespace.here
+// @name        Campfire Room Pinning (by data-name property)
+// @namespace   https://github.com/danwolff/campfire_customization
 // @include     https://yoursubdomain.yourcampfiredomain.com/*
 // @version     16
 // @grant       none
